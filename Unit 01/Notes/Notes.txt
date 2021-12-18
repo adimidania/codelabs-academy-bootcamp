@@ -1,0 +1,2 @@
+Check this link : https://danialearns.notion.site/Python-Fundamentals-6265693b954d46d4a1bc9cae74699bd5 
+If you have troubles with tensorflow installation, you should definitely check this out : https://www.youtube.com/watch?v=O8yye2AHCOk 
