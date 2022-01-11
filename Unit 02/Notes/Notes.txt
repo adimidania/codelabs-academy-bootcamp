@@ -1,0 +1,3 @@
+Check this link : https://www.notion.so/danialearns/Unit-02-e7da580fc5e94b499eef95e2f167d403
+To understand more about Missing Values : https://www.youtube.com/watch?v=XnnA9z7lv4Q 
+To understand Outliers detection with std and z-score : https://www.youtube.com/watch?v=KFuEAGR3HS4 
